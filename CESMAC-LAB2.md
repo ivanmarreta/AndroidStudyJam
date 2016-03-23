@@ -38,3 +38,10 @@ Avaliação com base nos [requisitos] (https://github.com/gdgmaceio/AndroidStudy
     * Utilizar Itent **OK**
     * Utilizar Variáveis **OK**
     * Utilizar Imagens **OK**
+    
+* Luan Carlos Macêdo [AnimaisSOS](https://drive.google.com/file/d/0B4lwIyJCMux9MEZvUk1TdWZfMlk/view?usp=sharing)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário
+    * Utilizar Itent
+    * Utilizar Variáveis
+    * Utilizar Imagens **OK**

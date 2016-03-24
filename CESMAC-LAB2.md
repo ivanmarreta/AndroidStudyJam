@@ -9,7 +9,7 @@ Avaliação com base nos [requisitos] (https://github.com/gdgmaceio/AndroidStudy
     * Utilizar Imagens **OK**
 	
 	
-* Mauro Santos [Aprendendo Direito](https://github.com/maurodenison/androidstudyjams​)
+* Mauro Santos [Aprendendo Direito](https://github.com/maurodenison/androidstudyjams)
     * Utilizar ViewGroups **OK**
     * Mínimo de quatro interações com o usuário **OK**
     * Utilizar Itent **OK**

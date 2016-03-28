@@ -62,7 +62,7 @@ Avaliação com base nos [requisitos] (https://github.com/gdgmaceio/AndroidStudy
 
 * Adalberto Brito [ChildTask](https://github.com/betobrito/androidstudyjam)
     * Utilizar ViewGroups **OK**
-    * Mínimo de quatro interações com o usuário
+    * Mínimo de quatro interações com o usuário **OK**
     * Utilizar Itent **OK**
     * Utilizar Variáveis **OK**
     * Utilizar Imagens **OK**

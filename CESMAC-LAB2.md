@@ -45,3 +45,24 @@ Avaliação com base nos [requisitos] (https://github.com/gdgmaceio/AndroidStudy
     * Utilizar Itent
     * Utilizar Variáveis
     * Utilizar Imagens **OK**
+
+* Juarez Felipe Cabral Graciliano [SerCriativo](https://github.com/cabralfelipe00/5-maneiras-de-ser-criativo)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário
+    * Utilizar Itent
+    * Utilizar Variáveis **OK**
+    * Utilizar Imagens **OK**
+
+* Roberto Barbosa [XôAedes](https://github.com/barbosaroberto/xoAedes)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário **OK**
+    * Utilizar Itent **OK**
+    * Utilizar Variáveis **OK**
+    * Utilizar Imagens **OK**
+
+* Adalberto Brito [ChildTask](https://github.com/betobrito/androidstudyjam)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário
+    * Utilizar Itent **OK**
+    * Utilizar Variáveis **OK**
+    * Utilizar Imagens **OK**

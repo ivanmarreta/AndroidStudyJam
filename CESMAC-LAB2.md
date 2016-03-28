@@ -66,3 +66,45 @@ Avaliação com base nos [requisitos] (https://github.com/gdgmaceio/AndroidStudy
     * Utilizar Itent **OK**
     * Utilizar Variáveis **OK**
     * Utilizar Imagens **OK**
+
+* João Paulo Ferreira da Silva [CalculadoraPassagens](https://github.com/jprox000/AndroidStudyJams---Projeto-Final---Calculadora-de-Passagens)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário **OK**
+    * Utilizar Itent
+    * Utilizar Variáveis **OK**
+    * Utilizar Imagens **OK**
+
+* Marcos Henrich Jones Silva [VeniVidiVici](https://github.com/JonesRoga/VeniVidiViciProject)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário
+    * Utilizar Itent **OK**
+    * Utilizar Variáveis
+    * Utilizar Imagens **OK**
+
+* Valter Barros [AConquista](https://github.com/thevalter/AConquista)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário
+    * Utilizar Itent
+    * Utilizar Variáveis **OK**
+    * Utilizar Imagens **OK**
+
+* Gleydson Albuquerque [Rio2016](https://github.com/Gleydson07/rio2016)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário **OK**
+    * Utilizar Itent **OK**
+    * Utilizar Variáveis
+    * Utilizar Imagens **OK**
+
+* Dellano Ávila [MalhandoCerto](https://github.com/dellanoavila/MalhandoCerto)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário
+    * Utilizar Itent 
+    * Utilizar Variáveis **OK**
+    * Utilizar Imagens **OK**
+
+* Guilherme Ramalho [EnciclopediaDaBesta](https://github.com/guilherme-ramalho/enciclopediadabesta)
+    * Utilizar ViewGroups **OK**
+    * Mínimo de quatro interações com o usuário
+    * Utilizar Itent **OK**
+    * Utilizar Variáveis
+    * Utilizar Imagens **OK**
